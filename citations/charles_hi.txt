@@ -1,0 +1,7 @@
+@misc{11858/00-097C-0000-0023-625F-0,
+ title = {{HindEnCorp} 0.5},
+ author = {Bojar, Ond{\v r}ej and Diatka, Vojt{\v e}ch and Stra{\v n}{\'a}k, Pavel and Tamchyna, Ale{\v s} and Zeman, Daniel},
+ url = {http://hdl.handle.net/11858/00-097C-0000-0023-625F-0},
+ note = {{LINDAT}/{CLARIAH}-{CZ} digital library at the Institute of Formal and Applied Linguistics ({{\'U}FAL}), Faculty of Mathematics and Physics, Charles University},
+ copyright = {Attribution-{NonCommercial}-{ShareAlike} 3.0 Unported ({CC} {BY}-{NC}-{SA} 3.0)},
+ year = {2014} }
